@@ -1,3 +1,4 @@
 @echo off
-echo.
-cd c:\workspace
+
+call _config.bat
+cd %WORK_DIR%
