@@ -1,0 +1,1 @@
+@echo "run in jupyter notebook (!echo y | jupyter kernelspec uninstall %1)"
