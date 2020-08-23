@@ -1,3 +1,3 @@
 @echo off
 
-conda update conda
+conda update -n base -c defaults conda
