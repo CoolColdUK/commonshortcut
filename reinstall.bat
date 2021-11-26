@@ -1,23 +1,39 @@
-choco install 7zip
-choco install bulkrenameutility
-choco install fsviewer
-choco install firefox
-choco install openoffice
-choco install duplicatecleaner
+choco install 7zip -y
+choco install bulkrenameutility -y
+choco install fsviewer -y
+choco install fsresizer -y
+choco install firefox -y
+choco install openoffice -y
+choco install duplicatecleaner -y
+choco install ccleaner -y
+choco install drawio -y
+choco install exiftool -y
+choco install exiftoolgui -y
 
-choco install notepadplusplus
-choco install microsoft-visual-cpp-build-tools
-choco install anaconda3
-choco install vscode
-choco install nodejs
-choco install yarn
-choco install git
-choco install github-desktop
-choco install lunacy
-choco install postman
+choco install atom -y
+choco install notepadplusplus -y
+choco install anaconda3 -y
+choco install vscode -y
+choco install docker-toolbox -y
+choco install docker-cli -y
+choco install yarn -y
+choco install git -y
+choco install github-desktop -y
+choco install lunacy -y
+choco install postman -y
+choco install inkscape -y
 
+choco install paint.net -y
+choco install putty -y
 
-choco install handbrake
-choco install vlc
-choco install k-litecodecpackmega
-choco install mp3tag
+choco install tagspaces -y
+choco install vnc-viewer -y
+
+choco install foxitreader -y
+choco install handbrake -y
+choco install vlc -y
+choco install k-litecodecpackmega -y
+choco install mp3tag -y
+choco install make -y
+choco install mpc-hc -y
+choco install musescore -y
