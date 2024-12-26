@@ -1,1 +1,5 @@
 _*.bat
+battery-report.html
+cacert.pem
+*.bat.bak
+roots.sst

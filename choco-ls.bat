@@ -1,3 +1,3 @@
 @echo off
 
-choco list --localonly
+choco list
